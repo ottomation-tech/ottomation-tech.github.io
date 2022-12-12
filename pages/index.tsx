@@ -2,12 +2,23 @@ export default function Home() {
   return (
     <div className="container mx-auto p-10">
       <div className="mb-10">
-        <h2 className="text-2xl my-5">Need help? Want to collaborate?</h2>
-        <p className="prose">
-          As tech advisor & enthusiast I can help you with <strong>tech strategy, concepts, tech leadership & coaching and hands-ons development</strong> (I don&apos;t like Loosing touch). Focus lies on helping startups getting from 0 to 1 and grown ups from 1 to 10. And I love architecting distributed & scaling systems.
+        <h2 className="text-4xl my-5">Need help? Want to collaborate?</h2>
+        <p className="prose mb-5">
+          As tech advisor & innovation enthusiast I can help you with:
+        </p>
+       
+        <ul className="mb-5 font-bold list-disc">
+          <li>Tech Strategy <span className="font-normal">(& Digital Business Models)</span></li>
+          <li>Concepting & Architecture</li>
+          <li>Leadership & Coaching</li>
+          <li>Hands-ons Development <span className="font-normal">(Coding is fun!)</span></li>
+        </ul>
+
+        <p className="prose mb-10">
+          The Focus lies on helping startups getting from 0 to 1 and grown ups from 1 to 10. Happy to help bigger orgs too. More general I love building lean products and architecting distributed & scaling systems.
         </p>
 
-        <h1 className="text-4xl my-5">Say <a className="underline font-bold text-green-800 hover:text-blue-500" href="mailto:hi@ottomation.tech">hi@ottomation.tech</a></h1>
+        <h1 className="text-2xl md:text-5xl my-5">Say <a className="underline font-bold text-green-800 hover:text-blue-500" href="mailto:hi@ottomation.tech">hi@ottomation.tech</a></h1>
         <p>
           Let me <i>ottomate</i> your world 🙂
         </p>
@@ -22,7 +33,7 @@ export default function Home() {
       </ul>
 
       <div className="prose mb-10">
-        <h3>My Profile</h3>
+        <h3>In more detail</h3>
         <p>
           Builder, Thinker & Communicator<br />
           with Passion for Innovation and Systems theory.
