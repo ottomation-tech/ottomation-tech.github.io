@@ -39,7 +39,7 @@ export default function Home() {
           with Passion for Innovation and Systems theory.
         </p>
         <p>
-          As a builder my typical roles involve tech leadership, software architecture and fullstack. My love for designing solutions and technical excellence is combined with a strong bias for action. I have a track record of bringing ideas from 1 to 0 and scaling existing solutions to a global scale.
+          As a builder my typical roles involve tech leadership, software architecture and fullstack. My love for designing solutions and technical excellence is combined with a strong bias for action. I have a track record of bringing ideas from 0 to 1 and scaling existing solutions to a global scale.
         </p><p>
           As a thinker I&apos; m your sparring partner. Next to technical perspective I also offer strong product and business sense. My experience ranges from many early stage and later stage projects I love to help conceptualize innovative digital solutions and evaluate business ideas and models.
         </p><p>
