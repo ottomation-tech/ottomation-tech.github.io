@@ -6,7 +6,7 @@ export default function Home() {
         <p className="prose mb-5">
           As tech advisor & innovation enthusiast I can help you with:
         </p>
-       
+
         <ul className="mb-5 font-bold list-disc">
           <li>Tech Strategy <span className="font-normal">(& Digital Business Models)</span></li>
           <li>Concepting & Architecture</li>
